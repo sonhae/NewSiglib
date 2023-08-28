@@ -1,0 +1,4 @@
+name: Siglib
+version: '${project.version}'
+main: com.signition.siglib.Siglib
+api-version: '1.20'

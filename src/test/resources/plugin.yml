@@ -1,0 +1,4 @@
+name: SiglibTest
+version: '${project.version}'
+main: com.signition.siglib.TestPlugin
+api-version: '1.20'
